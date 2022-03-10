@@ -4,7 +4,7 @@
 /**
   * main - Using the puts function to print a string
   *
-  * return - retuns an integer 0
+  * Return: retuns an integer 0
   */
 int main(void)
 {

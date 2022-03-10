@@ -2,11 +2,7 @@
 #include <string.h>
 
 /**
-  * main: Using the puts function to print a string
-  * puts: inserts the character
-  *
-  * Description: The program displays a string using puts
-  * Return: returns 0
+  * main - Using the puts function to print a string
   */
 int main(void)
 {

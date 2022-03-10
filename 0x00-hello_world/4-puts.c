@@ -2,8 +2,9 @@
 #include <string.h>
 
 /**
-  * Program for inserting string with puts
   * main: Using the puts function to print a string
+  *
+  * Description: The program displays a string using puts
   * puts: inserts the character
   * Return: returns 0
   */

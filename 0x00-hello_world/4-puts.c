@@ -2,7 +2,8 @@
 #include <string.h>
 
 /**
-  *main: Using the puts function to print a string
+  * main: Using the puts function to print a string
+  * Return: returns 0
   */
 int main(void)
 {

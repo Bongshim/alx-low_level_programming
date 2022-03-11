@@ -14,7 +14,10 @@ int main(void)
 	{
 		putchar(n % 10 + '0');
 		putchar(44);
+		if (n < 9)
+		{
 		putchar(32);
+		}
 	}
 	putchar('\n');
 	return (0);

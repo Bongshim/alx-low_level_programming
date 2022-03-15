@@ -1,4 +1,4 @@
-#include "main.h"
+#include "stdio.h"
 
 /**
   * print_to_98  - checks for the case
@@ -13,13 +13,11 @@ void print_to_98(int n)
 
 	for (c = n; c <= 98; c++)
 	{
-		if (c > 98)
+		if (c < 98)
 		{
-			_putchar(c % 10 + '0');
-			_putchar(44);
-			_putchar(32);
+			printf("%d, " c);
 		}
 		else
-			_putchar(c % 10 + '0');
+			printf(98);
 	}
 }

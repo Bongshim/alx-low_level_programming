@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
-  * jack_bauer - checks for the case
+  * times_table - checks for the case
   *
   * Return: returns an int 0
   */

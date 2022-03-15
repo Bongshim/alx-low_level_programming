@@ -16,7 +16,8 @@ void print_to_98(int n)
 		if (c > 98)
 		{
 			_putchar(c % 10 + '0');
-			_putchar(', ');
+			_putchar(44);
+			-putchar(32);
 		}
 		else
 			_putchar(c % 10 + '0');

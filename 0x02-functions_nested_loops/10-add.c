@@ -2,6 +2,8 @@
 
 /**
   * add - checks for the case
+  * @a - first integer
+  * @b - second integer
   *
   * Return: returns an int 0
   */

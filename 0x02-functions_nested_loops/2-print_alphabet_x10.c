@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
-  * print_alphabet - main function
+  * print_alphabet_x10 - main function
   *
   * Return: returns an int 0
   */
@@ -14,7 +14,6 @@ void print_alphabet_x10(void)
 	for (j = 0; j < 10; j++)
 	{
 		for (i = 'a'; i <= 'z'; i++)
-			
 		{
 			_putchar(i);
 		}

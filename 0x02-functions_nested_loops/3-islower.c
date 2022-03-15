@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
-  * main - checks for the case
+  * _islower - checks for the case
   *
   * Return: returns an int 0
   */

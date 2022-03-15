@@ -2,6 +2,7 @@
 
 /**
   * _islower - checks for the case
+  * @c: first parameter
   *
   * Return: returns an int 0
   */

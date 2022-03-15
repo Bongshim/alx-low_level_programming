@@ -17,7 +17,7 @@ void print_to_98(int n)
 		{
 			_putchar(c % 10 + '0');
 			_putchar(44);
-			-putchar(32);
+			_putchar(32);
 		}
 		else
 			_putchar(c % 10 + '0');

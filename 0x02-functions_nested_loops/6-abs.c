@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
-  * _islower - checks for the case
+  * _abs - checks for the case
   * @c: first parameter
   *
   * Return: returns an int 0
@@ -14,6 +14,6 @@ int _abs(int c)
 		return (c);
 	} else
 	{
-		return (0-(c));
+		return (0 - (c));
 	}
 }

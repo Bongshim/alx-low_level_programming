@@ -2,6 +2,7 @@
 
 /**
 *print_line - print a line based on the number of input
+*@n: first parameter
 *Return: returns a value
 */
 

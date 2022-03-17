@@ -7,7 +7,10 @@
 *Return: returns the result
 */
 
-int mul(int a, int b);
+int mul(int a, int b)
 {
-	return (a * b);
+	int c;
+
+	c = a * b;
+	return (c);
 }

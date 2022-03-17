@@ -1,11 +1,11 @@
 #include "main.h"
 
 /**
-*print_numbers - function that print numbers from from 0 to 9
+*print_most_numbers - function that print numbers from from 0 to 9
 *Return: returns a value
 */
 
-void print_numbers(void)
+void print_most_numbers(void)
 {
 	int i;
 
